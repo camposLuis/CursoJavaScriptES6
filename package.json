@@ -1,0 +1,12 @@
+{
+  "name": "CursoJavaScriptES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camposLuis/CursoJavaScriptES6.git",
+  "author": "camposLuis <luis.campos.henrique@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/preset-env": "^7.3.1"
+  }
+}
