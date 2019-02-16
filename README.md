@@ -1,2 +1,0 @@
-# CursoJavaScriptES6
-Rocketseat
